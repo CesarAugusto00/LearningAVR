@@ -43,6 +43,12 @@ Click the image above or [watch the video on YouTube](https://www.youtube.com/wa
 
 - SimulIDE (tested with v1.0.0 or later)
 - AVR-GCC and avr-libc (for compiling the code)
+
+## 📘 Attribution
+
+Parts of this code and project were adapted from the book *Make: AVR Programming* by Elliot Williams.  
+All rights belong to the original author and publisher. This version has been modified for educational and simulation purposes using SimulIDE.
+
   
 ## Compilation 
 
